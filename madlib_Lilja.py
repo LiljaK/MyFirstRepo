@@ -1,3 +1,11 @@
+import time
+
+
+
+
+
+
+
 ### MAD LIBS ###
 ### scource: https://www.google.com/search?sa=G&hl=en&q=mad+libs+printable+free&tbm=isch&tbs=simg:CAQSlwEJ5j-b1v4OVX4aiwELEKjU2AQaBAgUCAoMCxCwjKcIGmIKYAgDEii-Hb0dwR2QE4oTwB2_1HYsTkRP1B8o_15D3LP-U93TTmPec92zTJNt40GjCLuiy9t-1BW6cRRWjyAw1lbwRb_1C-73ijzlI17lkzOxASCb2ocBJYZ5V4z0_1TU3mQgBAwLEI6u_1ggaCgoICAESBJRzf8EM&ved=0ahUKEwim39fBiofXAhXM4IMKHZQuDXgQwg4IIygA&biw=763&bih=351&dpr=1.75#imgrc=X32CJ6QabHwUPM: ###
 ### Ask Questions here ###
@@ -74,3 +82,6 @@ print("Our own planet, which we cal l" + fn1 + "circles around our " + adj4 + "s
 print("There are eight other planets in out solar system.")
 print("They are named " + fn2 + " "  + fn3 + " " + fn4 + " " + fn5 + " " + fn6 + " " + fn7 + " Jupiter, and Mars.")
 print("Scientists who study these planets are called " + plnoun3 + " .")
+
+
+time.sleep (130)
